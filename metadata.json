@@ -1,0 +1,5 @@
+{
+  "name": "AI Watermark Remover",
+  "description": "Intelligently remove watermarks from images using AI.",
+  "requestFramePermissions": []
+}
